@@ -1,3 +1,15 @@
+# Exercise Part 1: SQLZoo
+- [X] head to SQL Zoo and complete tutorials 0, 1, 2, and 3.
+
+# Exercise Part 2: More SQL
+- [X] WHERE and ORDER BY
+- [X] Simple SUM
+- [X] Simple MIN/MAX
+- [X] Find all active students
+- [X] Simple GROUP BY
+- [X] Simple Having
+- [X] Complete Tutorial 5 (SUM_AND_COUNT)
+
 # Exercise Part 3: Products Querying
 
 1. Add a product to the table with the name of “chair”, price of 44.00, and can_be_returned of false.
